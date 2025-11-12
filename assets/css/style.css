@@ -62,8 +62,8 @@
   --it-heading-primary: #181818;
   --it-grey-1: #F0F4F5;
   --it-text-body: #6A6A6A;
-  --it-theme-1: #1AB69D;
-  --it-theme-2: #7339EF;
+  --it-theme-1: #15115b;
+  --it-theme-2: #9a0a0a;
   --it-border-1: #3a3a3a;
 }
 
@@ -2654,7 +2654,8 @@ body.it-magic-cursor #magic-cursor {
   color: var(--it-theme-2);
 }
 .it-header__height {
-  height: 118px;
+  height: 90px;
+  padding: 10px 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .it-header__height {
