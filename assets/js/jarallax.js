@@ -99,7 +99,7 @@
                 imgWidth          : null,
                 imgHeight         : null,
                 enableTransform   : true,
-                zIndex            : -100
+                zindex-3.html            : -100
             };
             dataOptions      = _this.$item.data('jarallax') || {};
             _this.options    = $.extend({}, _this.defaults, dataOptions, userOptions);
@@ -172,7 +172,7 @@
         _this.image.$container
             .css({
                 visibility : 'hidden',
-                'z-index'  : _this.options.zIndex
+                'z-index-3.html'  : _this.options.zindex-3.html
             })
             .attr('id', 'jarallax-container-' + _this.instanceID)
             .prependTo(_this.$item)

@@ -124,7 +124,7 @@
 	transform: scale(0.75) translateY(-21px);
 	-webkit-transition: all 0.2s cubic-bezier(0.5, 0, 0, 1.25), opacity 0.15s ease-out;
 	transition: all 0.2s cubic-bezier(0.5, 0, 0, 1.25), opacity 0.15s ease-out;
-	z-index: 9;
+	z-index-3.html: 9;
 	width: 95%;
 	right: 0;
 	text-align: center;
